@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "module": "commonjs",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "target": "es5",
+    "allowJs": false,
+    "declaration": true,
+    "declarationDir": "lib"
+  },
+  "exclude": [
+    "node_modules",
+    "examples"
+  ]
+}

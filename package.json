@@ -1,6 +1,6 @@
 {
   "name": "colorext",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Colorext is a library that transform color to color.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
